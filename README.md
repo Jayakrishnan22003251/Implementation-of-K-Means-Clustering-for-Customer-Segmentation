@@ -15,11 +15,12 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Program:
 ```
-/*
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: S.JAIGANESH
-RegisterNumber: 212222240037
 
+Program to implement the K Means Clustering for Customer Segmentation.
+Developed by: JAYAKRISHNAN L B L
+RegisterNumber: 212222230052
+```
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("/content/Mall_Customers (1) (1).csv")
@@ -55,7 +56,7 @@ plt.legend()
 plt.title("Customer Segments")
 
 
-*/
+
 ```
 
 ## Output:
